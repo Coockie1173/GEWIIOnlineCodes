@@ -1,0 +1,12 @@
+SJBE52:
+codeliststart = 80703880
+codelistend = 8070B860
+poke(804B1BA8, 38037FFF)
+SJBJ01:
+codeliststart = 807077A0
+codelistend = 8070F780
+poke(804B51E8, 38037FFF)
+SJBP52:
+codeliststart = 80703900
+codelistend = 8070B8E0
+poke(804B1C18, 38037FFF)
